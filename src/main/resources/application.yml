@@ -1,0 +1,13 @@
+
+spring:
+  application:
+    name: mail-service
+  mail:
+    host: smtp.163.com
+    username: tangshiwei163@163.com
+    password: tangshiwei123
+    default-encoding: UTF-8
+
+###邮件发送人
+mail:
+  from: tangshiwei163@163.com
